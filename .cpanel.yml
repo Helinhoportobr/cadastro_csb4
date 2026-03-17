@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home1/hg2aca82/public_html/cadastro_csb4
+    - /bin/cp -R * $DEPLOYPATH
