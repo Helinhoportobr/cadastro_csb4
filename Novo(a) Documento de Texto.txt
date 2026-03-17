@@ -13,3 +13,8 @@ APT: 203 - C
 CPF: 181.644.977-62
 Telefone: 61 98169-9226
 Email: juliajmsv@tab.mil.br Data Entrada: 2026-01-01 
+
+ Git™ Version Control
+Informações: The system successfully initiated the clone process for the “sistema_portaria” repository. The system may require more time to clone large remote repositories.
+Warning: Your system administrator must enable shell access to allow you to view clone URLs.
+Create and manage Git™ repositories. You can use Git to maintain any set of files and track the history of changes from multiple editors (version contro
